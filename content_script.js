@@ -1,4 +1,4 @@
-// Fonction pour remplacer les occurrences de 'X' par '🐦'
+// Fonction pour remplacer les 'X' par '🐦'
 // This function replace every 'X' by '🐦'
 function replaceXWithBird() {
   const allElements = document.querySelectorAll('span, p');
